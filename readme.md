@@ -5,5 +5,6 @@ This is the first file for git
 ##Ipsum below
 This is new text
 
-#website content
-added file
+#Here are the files of the website
+1. index.html
+2. 
